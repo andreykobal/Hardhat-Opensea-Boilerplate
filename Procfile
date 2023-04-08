@@ -1,1 +1,1 @@
-web: npx hardhat run --network matic app.js
+web: npm start
