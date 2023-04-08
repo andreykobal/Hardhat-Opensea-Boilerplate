@@ -230,7 +230,7 @@ contract GameItem is
 
     // for opensea collection
     function contractURI() public pure returns (string memory) {
-        return "https://ipfs.io/ipfs/Qmbph4yScYn5xbCk2dvfHThpEfH2L2JBhng5xEWgxNLiYp/collection-1/collection.json";
+        return "https://bafkreib4ff55r2vobbxysuu2oqipefsploizfcgamvmhxmxil4qlwyj2kq.ipfs.nftstorage.link/";
     }
 
     /**
